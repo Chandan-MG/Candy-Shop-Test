@@ -1,0 +1,33 @@
+.item-card{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+}
+
+.candylistitem{
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    max-width: 15vw;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.candylistitem button{
+    font: inherit;
+    cursor: pointer;
+    background-color: #00135d;
+    color: white;
+    border-radius: 12px;
+    /* padding: 1rem 2rem; */
+    /* border: 1px solid #00135d;
+    background-color: #00135d;
+    color: white;
+    border-radius: 12px; */
+    width: 8vw;
+    height: 4vh;
+    /* margin-right: 0.5rem;
+    margin-left: 0.5rem; */
+}

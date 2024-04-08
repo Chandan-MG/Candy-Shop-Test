@@ -1,0 +1,12 @@
+.btn{
+    width: 7vw;
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 1rem;
+    border: 1px solid #422d01;
+    background-color: #754501c4;
+    color: white;
+    border-radius: 12px;
+    /* margin-right: 0.5rem;
+    margin-left: 0.5rem; */
+}
